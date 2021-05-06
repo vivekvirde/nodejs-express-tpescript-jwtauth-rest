@@ -24,7 +24,7 @@ many books
 # DATABASE MYSQL
 - On local machine mysql should be up and running.
 - Create database name `BookManagement`.
-- Inside database load BookManagement_Tb_Authors.sql and  BookManagement_Tb_Books.sql file placed on project root.
+- Inside database load BookManagement_Tb_Authors.sql and  BookManagement_Tb_Books.sql file placed on project(repository) root.
 
 # NODE SERVER SETUP
 - Take a project clone `git clone https://github.com/vivekvirde/nodejs-express-tpescript-jwtauth-rest.git`. 
